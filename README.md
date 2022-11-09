@@ -1,2 +1,3 @@
-# demo 
-files description will be make here!
+# Hosted pages
+
+https://gbetibienvenu.github.io/zuri-miniproject_cohort2/
